@@ -1,0 +1,15 @@
+```gitignore
+.DS_Store
+Thumbs.db
+
+# temp extraction folders
+tmp/
+temp/
+extracted/
+
+# local tooling
+*.log
+
+# accidental unpacking
+**/__MACOSX/
+```
